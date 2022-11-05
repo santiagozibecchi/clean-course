@@ -46,3 +46,7 @@
    // cantidad máxima de clases por estudiante - max classes per student
    const maxQuantityForStudentClass = 6;
 })();
+
+/*
+    No importa si los nombres son algo largos ya que la mayoria de los lenguajes de programacion terminan ofuzcando estos. Lo minimizan, es mejor que los nombres sean mucho mas claros
+*/
